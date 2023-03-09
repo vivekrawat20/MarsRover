@@ -38,7 +38,7 @@ The application MarsRover is developed in Java.
 ### System Requirements:-
 
 - Operating System : Any(Windows/Linux/Mac)
-- Java : JDK1.7
+- Java : JDK1.8
 - IDE used: Eclipse
 
 ### How to run the application?
@@ -46,8 +46,15 @@ This application can be easily run with any IDE like Eclipse via main class (**M
 
 ### How to give an input?
 
-1. **Method1:** Run as Java application in IDE (Eclipse etc) - Input to be provided in console
-2. **Method2:** Application launched via command prompt/terminal using executable jar using command **"java -jar MarsRover.jar"** - Input to be provided on terminal. 
+1. **Method1:** Run as Java application in IDE (Eclipse etc) - Input to be provided in console <br />
+   
+   <img width="1671" alt="IDE Console Input" src="https://user-images.githubusercontent.com/127359706/224038286-4ddc9e5b-3d6c-4ff3-b845-467f6b2a927d.png">
+
+   
+2. **Method2:** Application launched via command prompt/terminal using executable jar using command **"java -jar MarsRover.jar"** - Input to be provided on terminal. <br />
+
+   <img width="668" alt="Terminal Input" src="https://user-images.githubusercontent.com/127359706/224038497-005517e9-7e34-4741-9caf-b28211101fa8.png">
+
 
 ### Unit Test cases:
 Unit test cases are available under MarsRover/Rover/src/test/RoverPathTest
